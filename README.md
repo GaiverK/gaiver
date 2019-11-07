@@ -1,4 +1,4 @@
-# gaiver
+# Gaiver Java Developer
 Java Development
 
 # Lesson 1
