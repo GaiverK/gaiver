@@ -1,4 +1,6 @@
 # gaiver
-My directory
+Java Development
 
-Here must be an interesting projects from Java as soon as possible
+# Lesson 1
+
+Теория и практика по основам Java
